@@ -7,7 +7,8 @@
   <ul>
   <li>🔭 I’m currently a student developer, at CEFIM school.  </li> 
   <li>🌱 I’m currently learning Symfony and React.   </li>
-  <li>💻 I've also learned HTML and CSS (vanilla or with Bootstrap)</li>
+  <li>💻 I've also learned HTML and CSS (vanilla or with Bootstrap) and SQL (mySQL and PostgreSQL) </li>
+  
   </ul>
 </details>
 
@@ -19,8 +20,8 @@
   <ul>
 <li>Developed and implemented environmental protection strategies </li>
 <li>Conducted research and fieldwork to assess environmental impact </li>
-<li>Collaborated with stakeholders to promote sustainable practices</li>
 <li>Managed projects aimed at preserving natural resources</li>
+<li>Worked with GIS software to analyze spatial data and create detailed maps.</li>
   </ul>
 </details>
 
