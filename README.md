@@ -14,6 +14,7 @@
 
 <details >
   <summary> Work experience </summary>
+   <h3>Software Company (1 year in alternance)</h3> <h4>Web Developer</h4> <em>1 year of experience (alternance)</em> <ul> <li>Developed and maintained web applications using Symfony and React.</li> <li>Collaborated with cross-functional teams to design and implement user-friendly features.</li> <li>Optimized SQL queries for improved performance in MySQL and PostgreSQL databases.</li> <li>Participated in code reviews and contributed to improving coding standards within the team.</li> <li>Worked in an Agile environment, actively participating in sprints and daily stand-ups.</li> </ul>
 <h3>Environmental Protection Association  </h3>
 <h4>Environmental Engineer</h4>
 <em>6 years of experience</em>
